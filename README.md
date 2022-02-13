@@ -4,7 +4,7 @@ HELLO I AM MELO, and i like to test things 👾
 [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]() 
 
 <details>
-<summary>Work in Progress</summary>  
+<summary>Projects in Progress</summary>  
    
    <br>
   
