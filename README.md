@@ -3,10 +3,13 @@ HELLO I AM MELO, and i like to test things 👾
 
 [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]() 
 
+
+<br>
+
 <details>
 <summary>Projects in Progress</summary>  
    
-   <br>
+    
    
 ### CAMAIE Furniture e-commerce
   
