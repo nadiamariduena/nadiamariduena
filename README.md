@@ -3,9 +3,16 @@ HELLO I AM MELO, and i like to test things 👾
 [<img src="camaie-furniture_e-store.gif"/>]() 
 
 <details>
-<summary>Heading</summary>
+<summary>Heading</summary>  
    
-        
-    + markdown list 1
-    [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]() 
+   <br>
+   
++ markdown list 1
+        + nested list 1
+        + nested list 2
+    + markdown list 2
+   
+  [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]() 
+   
+   
 </details>
