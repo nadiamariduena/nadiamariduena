@@ -7,11 +7,11 @@ HELLO I AM MELO, and i like to test things 👾
 <summary>Projects in Progress</summary>  
    
    <br>
+   
+### CAMAIE Furniture e-commerce
   
-Blnder & Threejs
-
-- I designed, modeled and manipulated all the lights.
-- One of the 3d models will be used in my Camaie furniture store with Threejs 
+#### Stack: React, THREEjs, SCSS, Styled components, AOS, Framer Motion and Blender.
+ 
 
   
 [<img src="camaie-furniture_e-store.gif"/>]() 
