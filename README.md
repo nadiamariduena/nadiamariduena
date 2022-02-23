@@ -1,7 +1,7 @@
 HELLO I AM MELO, and i like to test things 👾
 (Below): 3D rendering of a scene I modeled with Blender
 
-[<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]() 
+[<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://nadiamariduena.com/) 
 
 
 <br>
@@ -17,7 +17,7 @@ HELLO I AM MELO, and i like to test things 👾
  
 <br>
   
-[<img src="camaie-furniture_e-store.gif"/>]() 
+[<img src="camaie-furniture_e-store.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
    <br>
    
