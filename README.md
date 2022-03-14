@@ -3,6 +3,7 @@ HELLO I AM MELO, and i like to test things 👾
 
 [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://nadiamariduena.com/) 
 
+# <a href="https://emoji.gg/emoji/1385-metamask"><img src="https://emoji.gg/assets/emoji/1385-metamask.png" width="64px" height="64px" alt="metamask"></a>
 
 <br>
 
