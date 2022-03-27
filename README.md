@@ -3,6 +3,7 @@ HELLO I AM MELO, and i like to test things 👾
 
 [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://nadiamariduena.com/) 
 
+
 # <a href="https://emoji.gg/emoji/1385-metamask"><img src="https://emoji.gg/assets/emoji/1385-metamask.png" width="64px" height="64px" alt="metamask"></a>
 
 <br>
@@ -18,8 +19,13 @@ HELLO I AM MELO, and i like to test things 👾
  
 <br>
    
-   
+  
 [<img src="preview-image.webp"/>](https://opensea-clone-nadia-mariduena-exercise.vercel.app/) 
+   
+   <br>
+
+   [<img src="changin-all-colors2.gif "/>](https://github.com/nadiamariduena/product-configuration-react-three-fiber) 
+   
    
    
 <br>
