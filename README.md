@@ -9,8 +9,8 @@ HELLO I AM MELO and I like 3d, Web development and the 80's 👾 <br>
    
    <br>
    
-   [<img src="CHAIR_blender-3d-threejs.gif"/>]() 
-   [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]()
+   [<img src="CHAIR_blender-3d-threejs.gif"/>](https://preview-volkanuve.vercel.app/furniture) 
+   [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://preview-volkanuve.vercel.app/furniture)
    
    
    
