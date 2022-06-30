@@ -6,8 +6,9 @@ HELLO I AM MELO, and i like to test things 👾
   
    
    <br>
-
-   [<img src="changin-all-colors2.gif "/>](https://github.com/nadiamariduena/product-configuration-react-three-fiber) 
+   
+   [<img src="CHAIR_blender-3d-threejs.gif"/>]() 
+   [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>]()
    
    
    
