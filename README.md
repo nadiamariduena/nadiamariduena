@@ -1,9 +1,9 @@
 HELLO I AM MELO and I like 3d, Web development and the 80's 👾 <br>
-(Below): 3D rendering of a scene using threejs (I modeled it with Blender)
+**(Below)**: 3D rendering of a scene using threejs (I modeled it with Blender)
 
 <br>
 
-Chair inspired by the **Barcelona Chair** by **Mies Van der Rohe**
+**CREDITS:** Barcelona Chair inspired by **Mies Van der Rohe**
    
   
    
