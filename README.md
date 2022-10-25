@@ -4,7 +4,6 @@
   <img src="cyclop-smile.svg" width="80" height="80"/>
 </div>
     
-
  
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
@@ -20,11 +19,10 @@
  <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
 </div>
    
-     <br> 
- 
     
-   
-  
+   [<img src="choramtics-double-transpa.png"/>](https://opensea-clone-nadia-mariduena-exercise.vercel.app/) 
+ 
+     
    
    <br>
  
