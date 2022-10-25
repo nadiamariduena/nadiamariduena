@@ -6,8 +6,10 @@
     
 
  
-HELLO I AM MELO and I love everything that involves 3D, web surrealism ...👾 <br>
-**(Below)**: 3D rendering of a scene using threejs (I modeled it with Blender)
+### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
+
+
+**(Below)**: A scene I cooked for my Folio. I used Blender and (react-three-fiber)
 
 <br>
 
@@ -18,9 +20,9 @@ HELLO I AM MELO and I love everything that involves 3D, web surrealism ...👾 <
  <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
 </div>
    
-    
+     <br> 
  
-   
+    <img class="img" src="choramtics-double-transpa.png" width="650" height="680"/>
    
   
    
