@@ -20,9 +20,7 @@
 </div>
    
     
-   [<img src="choramtics-double-transpa.png"/>](https://opensea-clone-nadia-mariduena-exercise.vercel.app/) 
  
-     
    
    <br>
  
