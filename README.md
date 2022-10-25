@@ -1,34 +1,43 @@
-HELLO I AM MELO and I like 3d, Web development and the 80's 👾 <br>
+ <div style="display: flex; flex-direction: row;">
+ <img src="cyclop-smile.svg" width="80" height="80"/>
+ <img src="cyclop-smile.svg" width="80" height="80"/>
+  <img src="cyclop-smile.svg" width="80" height="80"/>
+</div>
+    
+
+ 
+HELLO I AM MELO and I love everything that involves 3D, web surrealism ...👾 <br>
 **(Below)**: 3D rendering of a scene using threejs (I modeled it with Blender)
 
 <br>
 
-**CREDITS:** Barcelona Chair inspired by **Mies Van der Rohe**
+  
+
+ <div style="display: flex; flex-direction: row;">
+ <img class="img" src="nadiamariduena_okt-2022.gif"  />
+ <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
+</div>
+   
+    
+ 
+   
    
   
    
    <br>
-   
-   [<img src="CHAIR_blender-3d-threejs.gif"/>](https://preview-volkanuve.vercel.app/furniture) 
-   [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://preview-volkanuve.vercel.app/furniture)
-   
+ 
    
    
 <br>
 
  
-    
- 
-
-
-# <a href="https://emoji.gg/emoji/1385-metamask"><img src="https://emoji.gg/assets/emoji/1385-metamask.png" width="64px" height="64px" alt="metamask"></a>
-
-<br>
 
 <details>
 <summary>Projects in Progress</summary> 
    
 <br>
+
+# <a href="https://emoji.gg/emoji/1385-metamask"><img src="https://emoji.gg/assets/emoji/1385-metamask.png" width="64px" height="64px" alt="metamask"></a>
    
 ### OpenSea marketplace [repo](https://github.com/nadiamariduena/opensea-marketplace)  
 #### Stack: Blockchain Web 3.0 App with  Next.js | Sanity.io | thirdweb | Tailwind | Alchemy
@@ -46,4 +55,31 @@ HELLO I AM MELO and I like 3d, Web development and the 80's 👾 <br>
 
  
    
+</details>    
+ 
+
+
+
+
+<br>
+
+
+<details>
+<summary>3d stuff</summary> 
+   
+<br>
+
+**CREDITS:** Barcelona Chair inspired by **Mies Van der Rohe**
+
+
+      
+   [<img src="CHAIR_blender-3d-threejs.gif"/>](https://preview-volkanuve.vercel.app/furniture) 
+   [<img src="study1_chairMarcelBreuer_eeveTest.jpg"/>](https://preview-volkanuve.vercel.app/furniture)
+   
+ 
+   <br>
+
+ 
+   
 </details>
+
