@@ -22,7 +22,7 @@
    
      <br> 
  
-    <img class="img" src="choramtics-double-transpa.png" width="650" height="680"/>
+    
    
   
    
