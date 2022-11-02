@@ -32,6 +32,8 @@ You can now make a fake order :)
 Nov 2.2022
    
    <br>
+   
+   https://nemu-mobile-store.netlify.app/
 
 https://user-images.githubusercontent.com/58809268/199617082-1df3164a-4c7f-4e23-a991-d00afee0dff5.mp4
 
