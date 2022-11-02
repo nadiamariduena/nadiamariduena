@@ -24,7 +24,12 @@
    
    <br>
  
-   #### Work in Progress
+
+#### Work in Progress
+
+You can now make a fake order :)   
+   
+Nov 2.2022
    
    <br>
 
