@@ -1,9 +1,11 @@
- <div style="display: flex; flex-direction: row;">
+ 
+
+
+<!--  <div style="display: flex; flex-direction: row;">
  <img src="cyclop-smile.svg" width="80" height="80"/>
  <img src="cyclop-smile.svg" width="80" height="80"/>
   <img src="cyclop-smile.svg" width="80" height="80"/>
-</div>
-    
+</div>  -->
  
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
@@ -23,11 +25,20 @@
  
    
    <br>
+     <br>
+       <br>
  
 
-#### Work in Progress
+## Work in Progress 
 
-You can now make a fake order :)   
+Nov 6, 2022 (draggable component)
+
+https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
+
+
+ 
+     
+
    
 Nov 2.2022
    
