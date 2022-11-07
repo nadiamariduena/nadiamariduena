@@ -32,6 +32,9 @@
 ## Work in Progress 
 
 Nov 6, 2022 (draggable component)
+ https://nemu-mobile-store.netlify.app/
+ 
+ <br>
 
 https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
 
@@ -41,18 +44,27 @@ https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-
    
 <br>
  
- Nov 2.2022
+ #### Nov 2.2022
    
    <br>
    
-   https://nemu-mobile-store.netlify.app/
+   
 
 https://user-images.githubusercontent.com/58809268/199617082-1df3164a-4c7f-4e23-a991-d00afee0dff5.mp4
+ 
+ 
+ <br>
+ 
+  #### Nov 15. 2021
+
+
+https://user-images.githubusercontent.com/58809268/200211392-534ceae4-b866-4068-8e0a-370c71103e69.mp4
+
 
  
   <br>
  
-   Oct 27, 2021 
+ #### Oct 27, 2021 
  
 
 
