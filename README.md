@@ -11,8 +11,24 @@
 
 
 **(Below)**: A scene I cooked for my Folio. I used Blender and (react-three-fiber)
+ 
 
 <br>
+
+Januar 20, 2023 (new folio)
+
+https://nadiamariduena.com/
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58809268/213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif)
+  
+  
+ Nov 6, 2022 (draggable component)
+ https://nemu-mobile-store.netlify.app/
+ 
+ <br>
+
+https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
+
 
   
 
@@ -31,14 +47,7 @@
 
 ## Work in Progress 
 
-Nov 6, 2022 (draggable component)
- https://nemu-mobile-store.netlify.app/
  
- <br>
-
-https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
-
-
 <details>
 <summary>Click to unfold all the previous versions</summary> 
    
