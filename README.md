@@ -17,7 +17,7 @@
   
 
  <div style="display: flex; flex-direction: row;">
- <img class="img" src="nadiamariduena_okt-2022.gif"  />
+ 
  <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
 </div>
    
