@@ -29,14 +29,7 @@ https://nadiamariduena.com/
 
   
   
- Nov 6, 2022 (draggable component)
- https://nemu-mobile-store.netlify.app/
  
- <br>
-
-https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
-
-
   
 
  <div style="display: flex; flex-direction: row;">
@@ -59,6 +52,19 @@ https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-
 <summary>Click to unfold all the previous versions</summary> 
    
 <br>
+ 
+ 
+ 
+ 
+  Nov 6, 2022 (draggable component)
+ https://nemu-mobile-store.netlify.app/
+ 
+ <br>
+
+https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
+
+
+ 
  
  #### Nov 2.2022
    
