@@ -5,6 +5,8 @@
  <img src="cyclop-smile.svg" width="80" height="80"/>
  <img src="cyclop-smile.svg" width="80" height="80"/>
   <img src="cyclop-smile.svg" width="80" height="80"/>
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58809268/213820483-0046ca3e-5500-4116-96d1-4b64e01479ed.gif)
+
 </div>  -->
  
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
@@ -31,7 +33,6 @@ https://nadiamariduena.com/furniture-cards
 
 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58809268/213820483-0046ca3e-5500-4116-96d1-4b64e01479ed.gif)
 
 
 
