@@ -16,8 +16,7 @@
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
 
-**(Below)**: A scene I cooked for my Folio. I used Blender and (react-three-fiber)
- 
+  
 
 <br>
 
@@ -26,13 +25,7 @@
 
 
 
-
-
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58809268/213820483-0046ca3e-5500-4116-96d1-4b64e01479ed.gif)
-
-  
  
-  
  
 
 ## Work in Progress 
