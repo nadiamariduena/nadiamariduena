@@ -20,13 +20,7 @@
 
 <br>
 
- 
 
-
-
-
- 
- 
 
 ## Work in Progress 
 
@@ -34,8 +28,8 @@
 <details>
 <summary>Click to unfold all the previous versions</summary> 
  
-   <br>
-       <br>
+<br>
+<br>
  
  
 Januar 20, 2023 (new folio)
@@ -50,12 +44,6 @@ https://nadiamariduena.com/furniture-cards
 
 ![chairr](https://user-images.githubusercontent.com/58809268/216482246-78b57bff-24da-4fc3-a9b3-6544680d21df.gif)
 
-
-
- 
- 
- 
- 
  <div style="display: flex; flex-direction: row;">
  
  <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
@@ -65,8 +53,7 @@ https://nadiamariduena.com/furniture-cards
  
    
    <br>
-     <br>
-       <br>
+ 
  
    
 <br>
@@ -123,13 +110,12 @@ https://user-images.githubusercontent.com/58809268/200209296-c0729554-bdb3-457e-
   
  
 <br> 
-<br>  
-<br>
+ 
 
  
 
 <details>
-<summary>NFT Begnner</summary> 
+<summary>NFT Beginner</summary> 
    
 <br>
 
