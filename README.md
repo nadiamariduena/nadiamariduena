@@ -7,7 +7,11 @@
   <img src="cyclop-smile.svg" width="80" height="80"/>
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58809268/213820483-0046ca3e-5500-4116-96d1-4b64e01479ed.gif)
 
-</div>  -->
+</div>  
+
+ 
+
+-->
  
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
@@ -17,6 +21,30 @@
 
 <br>
 
+ 
+
+
+
+
+
+
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58809268/213820483-0046ca3e-5500-4116-96d1-4b64e01479ed.gif)
+
+  
+ 
+  
+ 
+
+## Work in Progress 
+
+ 
+<details>
+<summary>Click to unfold all the previous versions</summary> 
+ 
+   <br>
+       <br>
+ 
+ 
 Januar 20, 2023 (new folio)
 
 https://nadiamariduena.com/
@@ -31,16 +59,10 @@ https://nadiamariduena.com/furniture-cards
 
 
 
-
-
-
-
-
-  
-  
  
-  
-
+ 
+ 
+ 
  <div style="display: flex; flex-direction: row;">
  
  <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
@@ -53,12 +75,6 @@ https://nadiamariduena.com/furniture-cards
      <br>
        <br>
  
-
-## Work in Progress 
-
- 
-<details>
-<summary>Click to unfold all the previous versions</summary> 
    
 <br>
  
