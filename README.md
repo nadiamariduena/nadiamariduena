@@ -17,15 +17,13 @@
 
 checkout my insta: https://www.instagram.com/zardozsan/
 
-<br>
+<br >
 
 twitter: https://twitter.com/zordazx_null
+
+ <br>
+  <br>
   
-
-<br>
-
-
-
 ## Work in Progress 
 
  
