@@ -16,6 +16,9 @@
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
 checkout my insta: https://www.instagram.com/zardozsan/
+
+<br>
+
 twitter: https://twitter.com/zordazx_null
   
 
