@@ -16,10 +16,14 @@
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
 
 checkout my insta: https://www.instagram.com/zardozsan/
-
+ 
 <br >
 
 twitter: https://twitter.com/zordazx_null
+
+
+![meyoko-phone-mockup-portrait](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/50223701-41d5-4760-8dbe-bad8485ae23b)
+
 
  <br>
   <br>
