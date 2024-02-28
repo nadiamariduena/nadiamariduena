@@ -19,9 +19,10 @@ instagram: https://www.instagram.com/zardozsan/
 
 twitter: https://twitter.com/zordazx_null
 
- 
-![a_iPhone-01-Portrait-low](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/fe7590d8-35e3-42c6-8fb1-caaf4a59ef83)
+![phone-landscape2](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/b496ad6a-bdf1-4cd6-a9e9-ecd2de905dec)
 
+ 
+ 
  <br>
   <br>
   
