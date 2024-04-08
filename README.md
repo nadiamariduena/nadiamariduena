@@ -13,11 +13,11 @@
 ### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 
 
 <br>
-folio:  https://nadiamariduena.com/
+folio 🦄 :  https://nadiamariduena.com/
 
-instagram: https://www.instagram.com/zardozsan/
+instagram 🌋: https://www.instagram.com/zardozsan/
 
-twitter: https://twitter.com/zordazx_null
+twitter 🌞: https://twitter.com/zordazx_null
 
 ![preview-default](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/3335f716-e87c-4154-b9c2-c4af928c99f2)
 
