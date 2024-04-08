@@ -1,6 +1,3 @@
- 
-:)
-
 <!--  <div style="display: flex; flex-direction: row;">
  <img src="cyclop-smile.svg" width="80" height="80"/>
  <img src="cyclop-smile.svg" width="80" height="80"/>
@@ -13,15 +10,20 @@
 
 -->
  
-### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 <br>
+### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 
+
+<br>
+folio:  https://nadiamariduena.com/
 
 instagram: https://www.instagram.com/zardozsan/
 
 twitter: https://twitter.com/zordazx_null
 
-![phone-landscape2](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/b496ad6a-bdf1-4cd6-a9e9-ecd2de905dec)
+![preview-default](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/3335f716-e87c-4154-b9c2-c4af928c99f2)
 
- 
+
+ ![11-iPhone-01-Portrait](https://github.com/nadiamariduena/nadiamariduena/assets/58809268/3c376c6f-8994-4614-8106-a8a41347f33b)
+
  
  <br>
   <br>
