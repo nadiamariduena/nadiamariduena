@@ -22,11 +22,24 @@ instagram 🌋: https://www.instagram.com/zardozsan/
 <br>
 
 
-## Recent projects 
+ <div style="display: flex; flex-direction: row;">
 
-- Surrealist site
+ 
 
- [<img src="phone.png"/>](https://meyoko.com/) 
+ [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://nadiamariduena.com/) 
+
+ 
+<br>
+
+ 
+
+ [<img src="216482246-78b57bff-24da-4fc3-a9b3-6544680d21df.gif"/>](https://nadiamariduena.com/furniture-cards) 
+
+ 
+ 
+  
+ 
+</div>
   
  <br>
   <br>
@@ -147,27 +160,13 @@ https://user-images.githubusercontent.com/58809268/200209296-c0729554-bdb3-457e-
 <br>
 <br>
 
+## Recent projects 
 
+- Surrealist site
 
-
- <div style="display: flex; flex-direction: row;">
-
- 
-
- [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://nadiamariduena.com/) 
+ [<img src="phone.png"/>](https://meyoko.com/) 
 
  
-<br>
-
- 
-
- [<img src="216482246-78b57bff-24da-4fc3-a9b3-6544680d21df.gif"/>](https://nadiamariduena.com/furniture-cards) 
-
- 
- 
-  
- 
-</div>
    
 <br>
 <br>
