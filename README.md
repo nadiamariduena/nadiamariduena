@@ -23,7 +23,7 @@ twitter 🌞: https://twitter.com/zordazx_null
  [<img src="preview-default.gif"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
 
 
- [<img src="11-iPhone-01-Portrait.jpg"/>](https://meyoko.com/) 
+ [<img src="phone.png"/>](https://meyoko.com/) 
  
  <br>
   <br>
