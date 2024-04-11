@@ -27,64 +27,37 @@ instagram 🌋: https://www.instagram.com/zardozsan/
 - Surrealist site
 
  [<img src="phone.png"/>](https://meyoko.com/) 
- 
- ## Work in Progress 
- 
- [<img src="Ellipse 1.png"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
-
- 
+  
  <br>
   <br>
   
-## past /Work in Progress 
+## 🟡 past /Work in Progress 
 
- 
 <details>
 <summary>Click to unfold all the previous versions</summary> 
  
 <br>
+
+ ##   Work in Progress 
+
+ 🟠 April, 2024 (3D multiplayer mobile shooter game)
+
+ This project is a 3D multiplayer mobile shooter game built using Playroom and React Three Fiber, offering immersive gameplay experiences on mobile devices.
+ 
+ [<img src="Ellipse 1.png"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
+
+  
+<br>
 <br>
  
- 
-Januar 20, 2023 (new folio)
 
-https://nadiamariduena.com/
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/58809268/213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif)
-
-<br>
-
-https://nadiamariduena.com/furniture-cards
-
-![chairr](https://user-images.githubusercontent.com/58809268/216482246-78b57bff-24da-4fc3-a9b3-6544680d21df.gif)
-
- <div style="display: flex; flex-direction: row;">
- 
- <img class="img" src="N-forNadiamariduena.png" width="650" height="680"/>
-</div>
-   
-    
- 
-   
-   <br>
- 
- 
-   
-<br>
- 
- 
- 
- 
-  Nov 6, 2022 (draggable component)
+ 🟠 Nov 6, 2022 (draggable component)
  https://nemu-mobile-store.netlify.app/
  
  <br>
 
 https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-af36-e8c8839aff25.mp4
 
-
- 
- 
  #### Nov 2.2022
    
    <br>
@@ -143,19 +116,11 @@ https://user-images.githubusercontent.com/58809268/200209296-c0729554-bdb3-457e-
    
   <br>
    
-   
      
 [<img src="camaie-furniture_e-store.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
-   <br>
-
- 
-   
+   <br>  
 </details>    
- 
-
-
-
 
 <br>
 
@@ -179,3 +144,31 @@ https://user-images.githubusercontent.com/58809268/200209296-c0729554-bdb3-457e-
    
 </details>
 
+<br>
+<br>
+
+
+
+
+ <div style="display: flex; flex-direction: row;">
+
+ 
+
+ [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://nadiamariduena.com/) 
+
+ 
+<br>
+
+ 
+
+ [<img src="216482246-78b57bff-24da-4fc3-a9b3-6544680d21df.gif"/>](https://nadiamariduena.com/furniture-cards) 
+
+ 
+ 
+  
+ 
+</div>
+   
+<br>
+<br>
+ 
