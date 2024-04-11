@@ -17,18 +17,25 @@ folio 🦄 :  https://nadiamariduena.com/
 
 instagram 🌋: https://www.instagram.com/zardozsan/
 
-twitter 🌞: https://twitter.com/zordazx_null
+ 
+
+<br>
+<br>
 
 
- [<img src="preview-default.gif"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
-
+## Recent projects 
 
  [<img src="phone.png"/>](https://meyoko.com/) 
+ 
+ ## Work in Progress 
+ 
+ [<img src="Ellipse 1.png"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
+
  
  <br>
   <br>
   
-## Work in Progress 
+## past /Work in Progress 
 
  
 <details>
