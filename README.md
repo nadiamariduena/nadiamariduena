@@ -46,10 +46,11 @@ instagram 🌋: https://www.instagram.com/zardozsan/
   
 ## 🟡 past /Work in Progress 
 
+ <br>
+
 <details>
 <summary>Click to unfold all the previous versions</summary> 
  
-<br>
 
  ##   Work in Progress 
 
