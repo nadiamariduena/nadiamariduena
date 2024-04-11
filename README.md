@@ -10,8 +10,7 @@
 
 -->
  
-### HELLO I'm into 3D, web surrealism & most recently "AR x android"...👾 
-
+ 
 <br>
 folio 🦄 :  https://nadiamariduena.com/
 
@@ -24,6 +23,8 @@ instagram 🌋: https://www.instagram.com/zardozsan/
 
 
 ## Recent projects 
+
+- Surrealist site
 
  [<img src="phone.png"/>](https://meyoko.com/) 
  
