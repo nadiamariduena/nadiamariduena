@@ -16,28 +16,32 @@ folio 🦄 :  https://nadiamariduena.com/
 
 instagram 🌋: https://www.instagram.com/zardozsan/
 
- 
 
 <br>
 <br>
 
+Work in progress
+ 
+#### Stack:
 
- <div style="display: flex; flex-direction: row;">
+react | redux  | mysql | stripe | apache |  strapi | redux-toolkit | framer-motion 
+
+https://github.com/nadiamariduena/eshop-strapi-duplicate
+
+https://user-images.githubusercontent.com/58809268/232027103-14dadce3-7433-4857-8f3d-b00156ccc992.mp4
+
+
+
+[<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
  
 
-In Progress
-Test the progress: here 🦄 https://game00-work-in-progress.netlify.app/
-
- [<img src="h.gif"/>](https://game00-work-in-progress.netlify.app/) 
-
-
  
-<br><br><br>
+<br>
+<br>
 
-  [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
- 
+
   
  
 </div>
@@ -60,6 +64,29 @@ Test the progress: here 🦄 https://game00-work-in-progress.netlify.app/
  This project is a 3D multiplayer mobile shooter game built using Playroom and React Three Fiber, offering immersive gameplay experiences on mobile devices.
  
  [<img src="Ellipse 1.png"/>](https://game00-work-in-progress.netlify.app/#r=RIAB1) 
+
+
+ 
+
+
+
+
+  <div style="display: flex; flex-direction: row;">
+
+ 
+
+In Progress
+Test the progress: here 🦄 https://game00-work-in-progress.netlify.app/
+
+ [<img src="h.gif"/>](https://game00-work-in-progress.netlify.app/) 
+
+
+ 
+<br><br><br>
+
+  [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
+
+ 
 
   
 <br>
