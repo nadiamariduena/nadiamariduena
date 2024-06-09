@@ -16,24 +16,32 @@ folio 🦄 :  https://nadiamariduena.com/
 
 instagram 🌋: https://www.instagram.com/zardozsan/
 
-
-<br>
-<br>
-
-Work in progress
- 
-#### Stack:
-
-react | redux  | mysql | stripe | apache |  strapi | redux-toolkit | framer-motion 
-
-https://github.com/nadiamariduena/eshop-strapi-duplicate
-
-https://user-images.githubusercontent.com/58809268/232027103-14dadce3-7433-4857-8f3d-b00156ccc992.mp4
-
-
-
 [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
+<br>
+<br>
+
+ 
+
+<!--  
+
+Work in progress
+
+ 1. #### Stack:
+2. 
+3. react | redux  | mysql | stripe | apache |  strapi | redux-toolkit | framer-motion 
+4. 
+5. https://github.com/nadiamariduena/eshop-strapi-duplicate
+6. 
+7. https://user-images.githubusercontent.com/58809268/232027103-14dadce3-7433-4857-8f3d-b00156ccc992.mp4
+8. 
+9. 
+10. 
+
+ 
+
+-->
+ 
  
 
  
@@ -44,7 +52,6 @@ https://user-images.githubusercontent.com/58809268/232027103-14dadce3-7433-4857-
 
   
  
-</div>
   
  <br>
   <br>
@@ -67,7 +74,7 @@ https://user-images.githubusercontent.com/58809268/232027103-14dadce3-7433-4857-
 
 
  
-
+ 
 
 
 
