@@ -18,7 +18,7 @@ I utilize AI for my notes, and I’m completely comfortable with others seeing m
 <br>
 folio 🦄 :  https://nadiamariduena.com/
 
-instagram 🌋: https://www.instagram.com/zardozsan/
+ 
 
 [<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
 
