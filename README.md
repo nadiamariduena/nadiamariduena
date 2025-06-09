@@ -14,14 +14,13 @@
  
  
 <br>
+
 folio 🦄 :  https://nadiamariduena.com/
 
  
 
-[<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
+<br>
 
-<br>
-<br>
 
  
 
@@ -163,6 +162,11 @@ https://user-images.githubusercontent.com/58809268/200151365-e9cddb02-9aa6-4c20-
  
    
 </details>
+
+
+
+[<img src="213819211-536eacd9-8629-49e8-9aaf-e264d94a9a05.gif"/>](https://camaie-furniture-st.netlify.app/) 
+
 
 <br>
 <br>
