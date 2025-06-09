@@ -1,6 +1,4 @@
-Disclaimer:
 
-I utilize AI for my notes, and I’m completely comfortable with others seeing my use of it. These notes are primarily for my own benefit. If you find them useful, great! Just know that I heavily rely on AI because my passion lies in acquiring knowledge, not in demonstrating my expertise. My focus has always been on personal projects rather than pursuing a tech career.
 
 <!--  <div style="display: flex; flex-direction: row;">
  <img src="cyclop-smile.svg" width="80" height="80"/>
